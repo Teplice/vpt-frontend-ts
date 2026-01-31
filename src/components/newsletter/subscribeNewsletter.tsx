@@ -16,7 +16,7 @@ const SubscribeNewsletter: React.FC = () => {
                             Pokud chcete dostávat náš zpravodaj, přihlaste se k odběru formulářem
                         </div>
                         <div className="aktualita-card__message"><a
-                            href="https://app.ngemailing.cz/lists/tg7537h1bt5b3/subscribe" target="_blank">Přihlašovací
+                            href="https://app.ngemailing.cz/lists/tg7537h1bt5b3/subscribe" target="_blank" rel="noreferrer">Přihlašovací
                             formulář</a></div>
                     </div>
                 </li>

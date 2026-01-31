@@ -34,7 +34,7 @@ const NavigationLinks: React.FC = () => {
       <li className="nav__list__item">
         <a
           href="https://www.facebook.com/search/top?q=volba%20pro%20teplice"
-          target="_blank"
+          target="_blank" rel="noreferrer"
           aria-label="Facebook"
         >
           <FacebookLogo className="nav__list__icon" weight="bold" />
@@ -43,7 +43,7 @@ const NavigationLinks: React.FC = () => {
       <li className="nav__list__item">
         <a
           href="https://instagram.com/volbaproteplice?igshid=YmMyMTA2M2Y="
-          target="_blank"
+          target="_blank" rel="noreferrer"
           aria-label="Instagram"
         >
           <InstagramLogo className="nav__list__icon" weight="bold" />

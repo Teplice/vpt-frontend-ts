@@ -11,7 +11,7 @@ const NewsletterList: React.FC<NewsletterListProps> = ({newsletters}) => {
             {newsletters.map((newsletter) =>
                 <div className="aktualita-card__message" key={newsletter.id}><a
                     href={newsletter.url}
-                    target="_blank">{newsletter.title}</a></div>)}
+                    target="_blank" rel="noreferrer">{newsletter.title}</a></div>)}
         </div>
     )
 }
