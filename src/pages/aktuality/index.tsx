@@ -3,7 +3,7 @@ import { Fragment } from "react";
 import { NextPage } from "next";
 import { AktualitaDoc } from "../../interfaces/models";
 import AktualityHead from "../../components/meta/aktuality-head";
-import { getAllNews } from "../../utilities/api-utils";
+import aktualityData from '../../../public/data/aktuality.json'
 import AktualityList from "../../components/aktuality/aktuality-list";
 
 interface AktualityProps {
@@ -25,7 +25,7 @@ const AktualityPage: NextPage<AktualityProps> = ({ aktuality }) => {
 };
 
 export const getStaticProps = async () => {
-  const aktuality: AktualitaDoc[] = await getAllNews();
+  const aktuality: AktualitaDoc[] = aktualityData;
   aktuality.sort((a, b) => {
     return Date.parse(b.date) - Date.parse(a.date);
   });

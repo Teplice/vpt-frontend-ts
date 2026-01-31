@@ -113,7 +113,7 @@ const AktualitaNew: React.FC<AktualitaNewProps> = ({ aktualita }) => {
             isValid={imageIsValid}
             setIsValid={setImageIsValid}
             buttonLabel={"Prosím vyberte obrázek"}
-            initialFilesUrl={aktualita?.image ? [aktualita?.image] : []}
+            initialFilesUrl={aktualita?.image ? [aktualita?.image.imageUrl] : []}
           />
           <Button className="aktaualita-new__form--button" disabled={!formState.isValid}>
             Uložit

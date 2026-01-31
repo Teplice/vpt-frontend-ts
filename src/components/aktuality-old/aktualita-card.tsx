@@ -72,7 +72,7 @@ const AktualitaCard: React.FC<AktualitaCardProps> = ({ aktualita }) => {
       </div>
       <figure className="aktualita-card__image">
         <Image
-          src={aktualita.image}
+          src={aktualita.image.imageUrl}
           alt={aktualita.title}
           layout="fill"
           objectFit="contain"

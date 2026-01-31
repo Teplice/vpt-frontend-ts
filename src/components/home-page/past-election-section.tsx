@@ -5,7 +5,7 @@ const PastElection: React.FC = () => {
     <section className="past-election__container">
       <div className="past-election__wrapper">
         <h2 className="heading-secondary">
-        Již 7 let jsme druhým největším subjektem v městském zastupitelstvu
+          Od roku 2014 jsme součástí města – s Vámi a pro Vás.
         </h2>
 
         <div className="past-election__grid">
@@ -52,6 +52,29 @@ const PastElection: React.FC = () => {
                 <Person className="past-election__grid__item--icon" />
                 <span>
                   <strong>8</strong> zastupitelů
+                </span>
+              </li>
+            </ul>
+          </div><div className="past-election__grid__item">
+            <h3 className="heading-tertiary">Volby 2022</h3>
+            <ul>
+              <li>
+                <Article className="past-election__grid__item--icon" />
+                <span>
+                  {" "}
+                  <strong>19.7%</strong> hlasů
+                </span>
+              </li>
+              <li>
+                <UsersFour className="past-election__grid__item--icon" />
+                <span>
+                  <strong>65 116</strong> hlasů
+                </span>
+              </li>
+              <li>
+                <Person className="past-election__grid__item--icon" />
+                <span>
+                  <strong>5</strong> zastupitelů
                 </span>
               </li>
             </ul>

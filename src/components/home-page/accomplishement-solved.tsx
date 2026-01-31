@@ -9,24 +9,29 @@ const AccomplishementSolved: React.FC = () => {
       <ul className="accomplishement--solved__list">
         <li>
           <CheckCircle className="accomplishement--solved__icon" />
-          <span>Omezení hazardu</span>
+          <span>Vykoupení plovárny v Zámecké zahradě</span>
         </li>
         <li>
           <CheckCircle className="accomplishement--solved__icon" />
-          <span>Komunitní plánování</span>
-        </li>
-        <li>
-          <CheckCircle className="accomplishement--solved__icon" />
-          <span>Započetí prací na novém územním plánu</span>
-        </li>
-        <li>
-          <CheckCircle className="accomplishement--solved__icon" />
-          <span>On-line přenosy z jednání zastupitelstva</span>
+          <span>Reorganizace a nové vedení Městské policie</span>
         </li>
         <li>
           <CheckCircle className="accomplishement--solved__icon" />
           <span>Pravidelná setkávání s občany</span>
         </li>
+        <li>
+          <CheckCircle className="accomplishement--solved__icon" />
+          <span>Posílení úklidu města</span>
+        </li>
+        <li>
+          <CheckCircle className="accomplishement--solved__icon" />
+          <span>Omezení hazardu</span>
+        </li>
+        <li>
+          <CheckCircle className="accomplishement--solved__icon" />
+          <span>Započetí prací na novém územním plánu</span>
+        </li>
+
         <li>
           <CheckCircle className="accomplishement--solved__icon" />
           <span>

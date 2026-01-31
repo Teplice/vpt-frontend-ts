@@ -297,7 +297,19 @@ button {
   color: #0d3961; }
   @media only screen and (max-width: 37.5em) {
     .accomplishement--pending__icon {
-      font-size: 2.8remrem; } }
+      font-size: 2.8rem; } }
+
+.accomplishement--header__container {
+  padding: 4.8rem;
+  border-radius: 2rem;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.06);
+  transition: all 500ms;
+  border: 2px solid #966a03;
+  /*min-height: 53rem; }*/
+}
+@media only screen and (max-width: 37.5em) {
+  .accomplishement--header__container {
+    padding: 2rem; } }
 
 .accomplishement--solved__container {
   padding: 4.8rem;
@@ -417,7 +429,7 @@ button {
 
 .past-election__grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   justify-items: center; }
   @media only screen and (max-width: 37.5em) {
     .past-election__grid {

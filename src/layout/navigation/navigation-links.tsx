@@ -16,9 +16,9 @@ const NavigationLinks: React.FC = () => {
       <li className={getClass("/")}>
         <Link href="/">Domů</Link>
       </li>
-      <li className={getClass("/kandidati")}>
-        <Link href="/kandidati">Kandidáti</Link>
-      </li>
+      {/*<li className={getClass("/kandidati")}>*/}
+      {/*  <Link href="/kandidati">Kandidáti</Link>*/}
+      {/*</li>*/}
       <li className={getClass("/zastupitele")}>
         <Link href="/zastupitele">Zastupitelé</Link>
       </li>
@@ -27,6 +27,9 @@ const NavigationLinks: React.FC = () => {
       </li>
       <li className={getClass("/program")}>
         <Link href="/program/program.pdf">Program</Link>
+      </li>
+      <li className={getClass("/newsletter")}>
+        <Link href="/newsletter">Zpravodaj</Link>
       </li>
       <li className="nav__list__item">
         <a
@@ -46,13 +49,13 @@ const NavigationLinks: React.FC = () => {
           <InstagramLogo className="nav__list__icon" weight="bold" />
         </a>
       </li>
-      <li className="nav__list__item">
-        <Link href="/prihlasit-se">
-          <a aria-label="Login">
-            <User className="nav__list__icon" weight="bold" />
-          </a>
-        </Link>
-      </li>
+      {/*<li className="nav__list__item">*/}
+      {/*  <Link href="/prihlasit-se">*/}
+      {/*    <a aria-label="Login">*/}
+      {/*      <User className="nav__list__icon" weight="bold" />*/}
+      {/*    </a>*/}
+      {/*  </Link>*/}
+      {/*</li>*/}
     </ul>
   );
 };

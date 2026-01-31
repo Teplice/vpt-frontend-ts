@@ -12,11 +12,11 @@ const HomePage: React.FC = () => {
     <div className="home-page__container">
       <HeroSection />
       <Coalition />
-      <SupportParties />
+      {/*<SupportParties />*/}
       <Accomplishement />
       <Program />
       <PastElection />
-      <FutureElection />
+      {/*<FutureElection />*/}
       {/* <DonateSection /> */}
     </div>
   );

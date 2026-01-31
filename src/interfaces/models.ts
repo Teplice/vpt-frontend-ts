@@ -30,7 +30,14 @@ export interface AktualitaDoc {
   title: string;
   subtitle: string;
   message: string;
-  image: ImageObject;
+  image: string;
+}
+
+export interface NewsletterDoc {
+  id: string;
+  date: string;
+  title: string;
+  url: string;
 }
 
 export interface IParams extends ParsedUrlQuery {
