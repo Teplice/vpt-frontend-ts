@@ -1,6 +1,7 @@
 import AccomplishementPending from "./accomplishement-pending";
 import AccomplishementSolved from "./accomplishement-solved";
 import AccomplishementHeader from "./accomplishement-header";
+import ProgramDone from "./program-done-section";
 
 const Accomplishement: React.FC = () => {
   return (
@@ -11,6 +12,7 @@ const Accomplishement: React.FC = () => {
           Mnoho věcí se nám již podařilo, nicméně máme před sebou ještě dlouhou
           cestu
         </h2>
+        <ProgramDone/>
         <AccomplishementHeader/>
         <div className="accomplishement__lists">
           <AccomplishementSolved />
@@ -18,6 +20,7 @@ const Accomplishement: React.FC = () => {
         </div>
       </div>
     </section>
+
   );
 };
 
