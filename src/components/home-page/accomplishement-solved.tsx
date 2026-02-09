@@ -29,7 +29,7 @@ const AccomplishementSolved: React.FC = () => {
         </li>
         <li>
           <CheckCircle className="accomplishement--solved__icon" />
-          <span>Započetí prací na novém územním plánu</span>
+          <span>Finalizace prací na novém územním plánu</span>
         </li>
 
         <li>

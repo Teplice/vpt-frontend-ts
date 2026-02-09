@@ -23,7 +23,7 @@ Tento projekt tvoří frontend webové stránce politické strany Volba pro Tepl
 ## EN  
 
 ### General information
-Political party websites Volba pro! Teplice. The main features are:
+Political party websites Volba pro Teplice. The main features are:
 
   - Initial landing page 
   - Ability to add, edit and delete representatives  
