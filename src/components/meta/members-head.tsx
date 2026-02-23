@@ -9,10 +9,9 @@ interface MembersHeadProps {
 }
 
 const MembersHead: React.FC<MembersHeadProps> = (props) => {
-  let loadedMemberNames: string = "";
-  props.zastupitele.map((element) => {
-    loadedMemberNames += `${element.name}, `;
-  });
+  let loadedMemberNames = props.zastupitele.flatMap((element) => {
+    return element.name;
+  }).join(", ");
 
   return (
     <Head>

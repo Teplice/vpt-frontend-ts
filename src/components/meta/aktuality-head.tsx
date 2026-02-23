@@ -9,10 +9,10 @@ interface AktualityHeadProps {
 }
 
 const AktualityHead: React.FC<AktualityHeadProps> = (props) => {
-  let loadedNewsMeta = "";
-  props.aktuality.map((aktualita) => {
-    loadedNewsMeta += `${aktualita.title} - ${aktualita.subtitle}, `;
-  });
+    let loadedNewsMeta = props.aktuality.flatMap((aktualita) => {
+        let hasSubtitle = aktualita.subtitle.trim() != '';
+        return aktualita.title +(hasSubtitle ? ` - ${aktualita.subtitle}` : '');
+    }).join(', ');
 
   return (
     <Head>

@@ -15,9 +15,10 @@ const NewsletterPage: NextPage<NewsletterProps> = ({ newsletters }) => {
     return (
         <Fragment>
             <SimpleHead
-                title="Newsletter "
+                title="Newsletter Volby pro Teplice"
                 description="Zpravodaj Volby pro Teplice"
                 url="newsletter"
+                keywords="Zpravodaj Volby pro Teplice, informace z radnice"
             />
             <section className="aktuality">
                 <h1 className="heading-primary aktuality__title">Newsletter</h1>

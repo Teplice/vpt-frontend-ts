@@ -4,7 +4,6 @@ import { ZastupitelDoc } from "../../interfaces/models";
 import ZastupiteleList from "../../components/zastupitele/zastupitele-list";
 import ZastupiteleHead from "../../components/meta/members-head";
 import zastupiteleData from '../../../public/data/zastupitele.json'
-import { getAllMembers } from "../../utilities/api-utils";
 
 interface ZastupiteleProps {
   zastupitele: ZastupitelDoc[];
@@ -16,7 +15,7 @@ const Zastupitele: NextPage<ZastupiteleProps> = ({ zastupitele }) => {
       <ZastupiteleHead
         title="Naši zastupitelé"
         url="/zastupitele"
-        description="Zastupitelé strany Volba pro Teplice v městském zastupitelstvu"
+        description="Zastupitelé hnutí Volba pro Teplice v městském zastupitelstvu"
         zastupitele={zastupitele}
       />
       <ZastupiteleList zastupitele={zastupitele} />
