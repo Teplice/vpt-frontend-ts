@@ -3,12 +3,14 @@
     "id": "1",
     "date": "2025-12-20",
     "title": "Prosinec 2025",
-    "url": "https://app.ngemailing.cz/campaigns/ff785zp64sb33"
+    "url": "https://app.ngemailing.cz/campaigns/ff785zp64sb33",
+    "content" : "VPT na radnici. Co už se nám povedlo. Zapojte se!"
   },
   {
     "id": "2",
     "date": "2026-02-17",
     "title": "Únor 2026",
-    "url": "https://app.ngemailing.cz/campaigns/es869bmqo5e3b"
+    "url": "https://app.ngemailing.cz/campaigns/es869bmqo5e3b",
+    "content" : "Jaký bude participativní rozpočet? Co se děje s plovárnou v Zámecké zahradě? Jaká bude podoba parkovacího domu v Alejní?"
   }
 ]

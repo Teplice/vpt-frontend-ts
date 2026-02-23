@@ -38,6 +38,7 @@ export interface NewsletterDoc {
   date: string;
   title: string;
   url: string;
+  content: string;
 }
 
 export interface IParams extends ParsedUrlQuery {
