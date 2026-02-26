@@ -4,6 +4,7 @@ import "../styles/globals.css";
 import { useEffect } from "react";
 import { useRouter } from "next/router";
 import type { AppProps } from "next/app";
+import { Analytics } from "@vercel/analytics/react";
 import { AuthProvider } from "../context/auth-context";
 import Layout from "../layout/layout";
 import Head from "next/head";
@@ -35,6 +36,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Head>
         <Component {...pageProps} />
+        <Analytics />
       </Layout>
     </AuthProvider>
   );
