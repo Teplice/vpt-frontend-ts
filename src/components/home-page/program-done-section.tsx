@@ -9,7 +9,7 @@ const ProgramDone: React.FC = () => {
             <ShieldPlus className="program__priorities__item--icon" />
             <p className="program__priorities__item--title">Bezpečné město</p>
             <p className="program__priorities__item--text">
-              Bezpečnost obyvatel Teplic je naší prioritou. Posílili jsme hlídky Městské policie doplněné Asistenty prevence kriminality. Otevřeli jsme služebnu Městské policie u Červeného kostela. Zavádíme výcvik strážníků a jejich průběžné vzdělávání.
+              Bezpečnost obyvatel Teplic je naší prioritou. Posílili jsme hlídky Městské policie doplněné Asistenty prevence kriminality. Otevřeli jsme služebnu Městské policie u Červeného kostela. Zavádíme výcvik strážníků a jejich průběžné vzdělávání. Naším cílem je rychlá dostupnost strážníků tam, kde je třeba.
             </p>
           </li>
 
@@ -17,7 +17,7 @@ const ProgramDone: React.FC = () => {
             <TreeEvergreen className="program__priorities__item--icon" />
             <p className="program__priorities__item--title">Zdravé životní prostředí</p>
             <p className="program__priorities__item--text">
-              Připravili jsme manuál péče o zeleň na sídlištích, který dá péči o zeleň pravidla a náplň i mimo hlavní parky. Kontrolujeme práci dodavatele v parcích i na sídlištích. Právě zeleň se z velké míry podílí na tom, jak se ve městě cítíme.
+              Připravujeme projekty revitalizace a rozšíření zeleně na sídlištích. Kontrolujeme práci dodavatele v parcích i na sídlištích. Právě zeleň se z velké míry podílí na tom, jak se ve městě cítíme. Zavedli jsme pásy, kde nesekáme trávu, aby měl hmyz zdroj potravy a úkryt.
             </p>
           </li>
           <li className="program__priorities__item">
