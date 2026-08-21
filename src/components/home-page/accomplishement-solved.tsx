@@ -35,7 +35,7 @@ const AccomplishementSolved: React.FC = () => {
         <li>
           <CheckCircle className="accomplishement--solved__icon" />
           <span>
-             <a className="accomplishement--solved__program" href="/program/program.pdf" target="_blanc">Moderní program</a> pro naše město
+             <a className="accomplishement--solved__program" href="/program/program_2026.pdf" target="_blanc">Moderní program</a> pro naše město
           </span>
         </li>
       </ul>

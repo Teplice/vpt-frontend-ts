@@ -16,9 +16,9 @@ const NavigationLinks: React.FC = () => {
       <li className={getClass("/")}>
         <Link href="/">Domů</Link>
       </li>
-      {/*<li className={getClass("/kandidati")}>*/}
-      {/*  <Link href="/kandidati">Kandidáti</Link>*/}
-      {/*</li>*/}
+      <li className={getClass("/kandidati")}>
+        <Link href="/kandidati">Kandidáti</Link>
+      </li>
       <li className={getClass("/zastupitele")}>
         <Link href="/zastupitele">Zastupitelé</Link>
       </li>
@@ -26,11 +26,14 @@ const NavigationLinks: React.FC = () => {
         <Link href="/aktuality">Aktuality</Link>
       </li>
       <li className={getClass("/program")}>
-        <Link href="/program/program.pdf">Program</Link>
+        <Link href="/program/program_2026.pdf">Program</Link>
       </li>
       <li className={getClass("/newsletter")}>
         <Link href="/newsletter">Zpravodaj</Link>
       </li>
+      {/*  <li className={getClass("/transparentnost")}>*/}
+      {/*  <Link href="/transparentnost">Transparentnost</Link>*/}
+      {/*</li>*/}
       <li className="nav__list__item">
         <a
           href="https://www.facebook.com/search/top?q=volba%20pro%20teplice"

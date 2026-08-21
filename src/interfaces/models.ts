@@ -33,6 +33,16 @@ export interface AktualitaDoc {
   image: string;
 }
 
+export interface TransparencyDoc {
+  id: string;
+  title: string;
+  payer: string;
+  amount: number;
+  publisher: string;
+  from: string;
+  until: string;
+}
+
 export interface NewsletterDoc {
   id: string;
   date: string;

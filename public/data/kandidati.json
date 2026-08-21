@@ -1,246 +1,245 @@
 [
   {
     "id": "id1",
-    "name": "Ing. Jakub Mráček",
-    "image": "/images/kandidati/1_mracek.jpg",
-    "occupation": "středoškolský učitel, skautský vedoucí",
-    "motto": "Politika je služba.",
-    "text": "Ví, co chce. O Teplice se stará víc než deset let. Učí naše děti. Vychovává tu rodinu. Postavil novou skautskou klubovnu. Po jeho audiokostkách šlapeme na všech významných místech v Teplicích. Dokončuje, co začal. Jakub Mráček by vážně měl dostat šanci!",
-    "order": 1
+    "name": "Bc. Petr Slavíček",
+    "image": "/images/kandidati/slavicek.jpg",
+    "occupation": "1. náměstek primátora pro životní prostředí a městskou policii, IT specialista",
+    "motto": "Bezpečné a čisté ulice",
+    "text": "\"Chci pokračovat ve službě městu v oblasti bezpečnosti i čistoty a zvelebování veřejného prostoru. Zaměřím se obzvlášť na kvalitu života na sídlištích, kde žije nejvíc z nás\" slibuje Petr Slavíček, 1. náměstek primátora a velitel Městské policie Teplice. Svojí schopnost vést město prokázal nejen reorganizací městské policie ale i řadou projektů ve městě, které za krátký čas ve vedení města realizoval",
+    "order": "1"
   },
   {
     "id": "id2",
     "name": "Adam Souček",
-    "image": "/images/kandidati/2_soucek.jpg",
-    "occupation": "úředník odboru zdravotnictví, iniciátor obnovení Kozí dráhy",
-    "motto": "Jistota parkovacího místa.",
-    "text": "Znáte to. Vracíte se večer z práce a, ouha, není kde zaparkovat. Místo odpočinku a s kručícím žaludkem brouzdáte okolní ulice a kroutíte očima nad dlouhodobě odstavenými auty. 'Obyvatel města musí mít jistotu parkovacího místa,' říká jasně Adam Souček, který se tématem dopravy dlouhodobě zabývá. Řešením je podle něj mix opatření, mj. výstavba parkovacích domů, rezervace pro rezidenty, ale taky lépe fungující městská hromadná doprava.",
-    "order": 2
+    "image": "/images/kandidati/soucek.jpg",
+    "occupation": "náměstek primátora pro školství a smart city",
+    "motto": "Teplice s budoucností: moderní školy a chytré město\n\n",
+    "text": "\"Mým cílem v teplických školách je moderní výuka, bezpečné zázemí, nadšení žáci, opravené školy a spokojení rodiče. Úspěšně jsme vyřešili obrovský úkol a zachovali jsme přes 220 pracovních míst pro kuchařky, uklízečky či školníky, které stát přestal financovat. V oblasti Smart city prosazuji zavedení navigačního systému pro parkování, bikesharingu s elektrokoly či chytré veřejné osvětlení a další\" popisuje Adam Souček",
+    "order": "2"
   },
   {
     "id": "id3",
-    "name": "Mgr. Nikola Fialová Seifrtová",
-    "image": "/images/kandidati/3_nikolka.jpg",
-    "occupation": "pořadatelka kulturních a sportovních akcí",
-    "motto": "Aby Teplice žily. ",
-    "text": "Přemýšleli jste někdy nad tím, jak zařídit, aby se lidé rádi vraceli do Teplic? Nikola Fialová Seifrtová ano - Teplice musí být přívětivé i otevřené město pro všechny a musí to tu žít!",
-    "order": 3
+    "name": "Mgr. Marcela Bartáková",
+    "image": "/images/kandidati/bartakova.jpg",
+    "occupation": "vedoucí střediska Probační a mediační služby ČR, členka kontrolního výboru",
+    "motto": "Prevence se vyplatí",
+    "text": "\"Chci město, kde se budu cítit bezpečně doma, na ulici i v parcích. Podporuji vytváření pravidlel a programů, které přispívají k prevenci sociálních problémů v terénu a vedou k dlouhodobému řešení kritických situací ve veřejném prostoru. Pravidla platí pro každého! Důraz na prevenci a důsledná sociální práce ve veřejném prostoru, na ulicích a zejména pak v ohrožených lokalitách, je základ pro spokojený život obyvatel Teplic i návštěvníků lázní.\" říká Marcela Baráková, vedoucí Probační a mediační služby v Teplicích.",
+    "order": "3"
   },
   {
     "id": "id4",
-    "name": "RNDr. Zdeněk Bergman",
-    "image": "/images/kandidati/4_bergman.jpg",
-    "occupation": "ředitel Gymnázia Teplice",
-    "motto": "Teplice potřebují vizi. ",
-    "text": "Město můžete spravovat jako údržbář nebo jako vizionář. Údržbář rozsvítí a zhasne, když je třeba, a opraví opadanou omítku. Vizionář má jasný cíl, ví kam chce město směřovat a co pro to musí udělat. Zdeněk Bergman to ví, vede mnoho let úspěšně naše gymnázium a chce z Teplic mít živé město, kde se bude místním dobře žít a kam budou rádi jezdit turisté. A nebojte se, svítit u toho budeme taky a omítku opadat nenecháme ;-)",
-    "order": 4
+    "name": "Mgr. Martin Sobek",
+    "image": "/images/kandidati/sobek.jpg",
+    "occupation": "advokát, člen rady města",
+    "motto": "Stop negativním dopadům těžby lithia!",
+    "text": "„Teplice, ani náš region, nesmí nést negativní důsledky těžby lithia bez dostatečných záruk ze strany státu a bez náležité kompenzace těchto důsledků. Budu prosazovat důslednou ochranu našeho regionu, přírody i termálních pramenů a požadovat, aby stát i investor zajistili maximální možnou ochranu životního prostředí a převzali plnou odpovědnost za případné dopady. O budoucnosti Teplic a jeho okolí se nesmí rozhodovat bez ohledu na lidi, kteří zde žijí,“ říká advokát Martin Sobek",
+    "order": "4"
   },
   {
     "id": "id5",
-    "name": "Ing. Jiří Wagner",
-    "image": "/images/kandidati/5_wagner.jpg",
-    "occupation": "ekonom",
-    "motto": "Dobrá správa města.",
-    "text": "'Dobrá správa města pro mě znamená odpovědnost a hospodárnost při každodenním rozhodování. Z pozice zastupitele proto budu rád dohlížet nad zdravým hospodařením a promyšlenými investicemi našeho města,' říká ekonom Jiří Wagner, pro něhož jsou Teplice domovem, kam se vždy rád vrací.",
-    "order": 5
+    "name": "Ing. Jakub Mráček",
+    "image": "/images/kandidati/mracek.jpg",
+    "occupation": "zástupce ředitelky Gymnázia Teplice, člen rady města",
+    "motto": "Postavíme městské byty!",
+    "text": "\"Bytová politika města je základ pro dostupné bydlení v Teplicích. Rozjel jsem první změny v téhle oblasti a připravil ambicióznější koncepci. Co přinese? Startovací byty pro mladé rodiny, byty pro potřebné profese, jako jsou učitelé, sestřičky, policisté a samozřejmě taky pro sociálně potřební\" říká radní Jakub Mráček",
+    "order": "5"
   },
   {
     "id": "id6",
-    "name": "Bc. Petr Slavíček",
-    "image": "/images/kandidati/6_slavicek.jpg",
-    "occupation": "programátor, vedoucí vývojového oddělení",
-    "motto": "Bezpečí a pořádek v ulicích.",
-    "text": "'Jako zastupitel budu systematicky pečovat o čistotu Teplic a snažit se zanedbaná místa dělat krásnými,' slibuje Petr Slavíček, vedoucí programátorského týmu, absolvent teplické konzervatoře a svého času také řidič našich trolejbusů. Že to nejsou slova do větru, Petr opakovaně prokázal organizací úklidových akcí.",
-    "order": 6
+    "name": "Emilie Rážová, M.Sc.",
+    "image": "/images/kandidati/razova.jpg",
+    "occupation": "urbanistka",
+    "motto": "Město, kde se žije",
+    "text": "\"Město je živý organismus, který potřebuje péči, promyšlený rozvoj a lidi, kteří rozumí tomu, jak funguje. Město by se mělo starat nejen o své obyvatele, ale i o veřejný prostor, přírodu a místa, kde se lidé rádi setkávají.\" Emilie si přeje, aby Teplice byly právě takovým městem – v centru i jednotlivých čtvrtích. \"Ze života v Berlíně a regionální práci na plánu obnovy měst a krajiny po těžbě chci do zastupitelstva přinést konkrétní know-how: jak plánovat veřejný prostor, vytvářet podmínky pro kvalitní život současných i budoucích obyvatel a přitáhnout kvalitní architekty i investory.\"\n",
+    "order": "6"
   },
   {
     "id": "id7",
-    "name": "Mgr. Martin Sobek",
-    "image": "/images/kandidati/7_sobek.jpg",
-    "occupation": "advokát",
-    "motto": "Prosperující živnostníci - prosperující Teplice. ",
-    "text": "'Aby město prosperovalo, musí nejdříve prosperovat lidé, kteří v něm žijí. Jednou z cest, jak toho dosáhnout, je podpora podnikatelského prostředí ve městě a inovačního potenciálu místních podnikatelů a společností. Naše město se musí do budoucna více zaměřit na podporu městského ekosystému, který bude poskytovat podporu začínajícím i stávajícím podnikatelům a podporovat vznik inovativních společností v našem městě' říká advokát Martin Sobek.",
-    "order": 7
+    "name": "RNDr. Zdeněk Bergman",
+    "image": "/images/kandidati/bergman.jpg",
+    "occupation": "emeritní ředitel Gymnázia Teplice",
+    "motto": "Teplice velké a živé",
+    "text": "Chci mít z Teplic živé město, kde se bude místním dobře žít a které budou turisté obdivovat. Střed města má být rušný, plný lidí, ketří tam najdou obchody, služby, úřady a zábavu. Lázeňské čtvrti mají zářit nádhernými domy a parky a dýchat klidnou a vznešenou atmosférou. Obytné zóny mají být čisté, bezpečné a vybavené vším pro pohodlný život obyvatel. K městu patří i prostory pro průmysl a příroda. Vše má dohromady vytvářet harmonický celek. Tato vize je uskutečnitelná díky vědě, moderním technologiím a hlavně schopným, odhodlaným a slušným lidem.",
+    "order": "7"
   },
   {
     "id": "id8",
-    "name": "Mgr. Marcela Bartáková",
-    "image": "/images/kandidati/8_bartakova.jpg",
-    "occupation": "vedoucí střediska státní organizace v trestní justici",
-    "motto": "Bezpečné Teplice bez kriminality. ",
-    "text": "'Víte, jaká je ta nejlépe investovaná koruna do bezpečnosti? Do většího počtu policistů? Do nového vybavení? Ale vůbec ne. Nejvíc se vyplatí prevence. Každá koruna, kterou utratíme za to, abychom zločinu předešli, se nám mnohokrát vrátí,' říká Marcela Baráková, vedoucí probační služby v Teplicích.",
-    "order": 8
+    "name": "Ing. arch. Jan Hanzlík",
+    "image": "/images/kandidati/hanzlik.jpg",
+    "occupation": "architekt a popularizátor architektury",
+    "motto": "Město jako fungující systém",
+    "text": "\"Architekti i starostové našeho města dříve cílevědomě pracovali na tom, aby z Teplic udělali moderní velkoměsto, a na to chci navázat. Rozvoj města musí stát na systematické péči o památky a přírodu, všestranně rozvinuté dopravě a dostupném bydlení.\" říká architekt a autor knihy o teplické architektuře Jan Hanzlík. Rád by zúročil své zkušenosti z navrhování různorodých veřejných i soukromých zakázek, obnov kulturních památek i  ze své stáže v urbanistickém ateliéru ve Francii.",
+    "order": "8"
   },
   {
     "id": "id9",
-    "name": "Mgr. Matěj Hon",
-    "image": "/images/kandidati/9_matej-hon.jpg",
-    "occupation": "právník, odborník na sociální politiku a bydlení",
-    "motto": "Lidi na ulici - přivřít oči nestačí. ",
-    "text": "Proč ve městě potkáváme tolik bezdomovců? Protože řešení situace lidí na okraji společnosti je v Teplcích i na okraji pozornosti vedení města. Chybí nám specializované sociální služby i sociální bydlení. Proto tu je tolik lidí na ulici. Matěj Hon, odborník na sociální oblast, je připravený pustit se do práce.",
-    "order": 9
+    "name": "Ing. Jiří Wagner",
+    "image": "/images/kandidati/wagner.jpg",
+    "occupation": "ekonom, člen finančního výboru",
+    "motto": "Teplice, perspektivní město pro budoucnost",
+    "text": "\"Aby město prosperovalo, musí nejdříve prosperovat lidé, kteří v něm žijí. Proto chceme Teplice rozvíjet jako město inovací, vzdělání, kvalitních pracovních příležitostí a vysoké kvality života. Město, které přitahuje talentované a aktivní lidi a vytváří podmínky pro jejich úspěch a spokojený život. Jen tak budou Teplice skutečně perspektivním městem pro budoucnost.\" říká ekonom Jiří Wagner.",
+    "order": "9"
   },
   {
     "id": "id10",
-    "name": "Robert Appel",
-    "image": "/images/kandidati/10_appel.jpg",
-    "occupation": "podnikatel, předseda spolku Ulpan Teplice",
-    "motto": "Obnovme plovárnu v Zámecké zahradě!",
-    "text": "'Neničme odkaz našich předků a chovejme se s úctou a respektem k historickým stavbám města. Zaslouží si naši ochranu a péči, nikoli zanedbání a chátrání (vedoucí k zániku). Napravme chybu a obnovme plovárnu v Zámecké zahradě,' říká teplický rodák Robert Appel, který není příliš hrdý na současnou podobu svého města.",
-    "order": 10
+    "name": "MVDr. Josefa Kolmanová",
+    "image": "/images/kandidati/kolmanova.jpg",
+    "occupation": "ředitelka Lesní mateřské školy Samorost",
+    "motto": "Teplice pro rodiny",
+    "text": "\"Společně proměníme Teplice v bezpečný a moderní domov, kde má každá generace své důstojné místo k životu. Chci pro naše děti moderní hřiště i bezpečné ulice a pro jejich rodiče dostupné bydlení a příjemný veřejný prostor.\" říká Josefa Kolmanová, která vybudovala a řídí vlastní úspěšnou lesní mateřskou školu",
+    "order": "10"
   },
   {
     "id": "id11",
-    "name": "Mgr. Eva Klášterková",
-    "image": "/images/kandidati/11_klasterkova.jpg",
-    "occupation": "pracovnice teplického muzea",
-    "motto": "Pro Teplice bez hazardu. ",
-    "text": "'Naším cílem jsou Teplice bez hazardu a s ním související kriminalitou. Regulaci heren jsme už začali prosazovat v opozici, ale je třeba ji dotáhnout do konce,' říká muzejnice Eva Klášterková.",
-    "order": 11
+    "name": "Ing. Adam Tomáš",
+    "image": "/images/kandidati/tomas.jpg",
+    "occupation": "předseda sportovního klubu Kravec Gym Teplice, jednatel rodinné firmy",
+    "motto": "Sport dává dětem budoucnost",
+    "text": "\"Sport dětem dává smysluplnou náplň volného času, učí je disciplíně, respektu, zodpovědnosti a motivuje je překonávat vlastní hranice. Chci podporovat sportovní aktivity dostupné pro všechny děti, včetně těch, jejichž rodiny si je nemohou dovolit. Věřím, že podpora sportu je jednou z nejlepších prevencí rizikového chování a investicí do budoucnosti našeho města. Z vlastní praxe vím, jak velký pozitivní dopad může sport na děti mít,“ říká Adam Tomáš",
+    "order": "11"
   },
   {
     "id": "id12",
-    "name": "MUDr. Jan Kubalík",
-    "image": "/images/kandidati/12_kubalik.jpg",
-    "occupation": "chirurg",
-    "motto": "Pro kvalitní péči a dostatek lékařů. ",
-    "text": "'Chci, aby mladí měli důvod tu zůstávat, vracet se, nebo i přicházet a zakládat rodiny. Více příležitostí pro studenty, více možností pro život,' přeje si lékař Jan Kubalík.",
-    "order": 12
+    "name": "Martin Ryba",
+    "image": "/images/kandidati/ryba.jpg",
+    "occupation": "pedagog, ředitel divadla",
+    "motto": "Vypěstujme kulturní Teplice.",
+    "text": "\"Vraťme lázeňskému městu Teplice jeho kulturní a uměleckou jedinečnost. Za mnou stojí, mimo jiné, obnovení činnosti Filmového klubu nebo založení a činnost Společnosti přátel Julia Payera. Teplice si to zaslouží,\" říká pedagog, ředitel divadla a skaut Martin Ryba.",
+    "order": "12"
   },
   {
     "id": "id13",
-    "name": "Ing. Adam Tomáš",
-    "image": "/images/kandidati/13_tomas.jpg",
-    "occupation": "jednatel rodinné firmy, předseda sportovního klubu",
-    "motto": "Pro dostupnější bydlení!",
-    "text": "Přeji si, aby Teplice byly městem, kde můžou bydlet všichni, kteří o to stojí. Aby mladí, senioři, samoživitelky a další potřební měli možnost důstojné střechy nad hlavou. V důsledku to oceníme my všichni, říká Adam Tomáš, sportovec a podnikatel. A taky kandidát Volby pro Teplice.",
-    "order": 13
+    "name": "Bc. Jakub Špaček",
+    "image": "/images/kandidati/spacek.jpg",
+    "occupation": "dispečer v  logistice",
+    "motto": "Transparentní a otevřená radnice",
+    "text": "\"Vnímám jako zásadní, aby město konalo trasparentně a otevřeně komunikovalo s občany. I když se přístup v řadě ohledů zlepšil, určitě je stále na čem pracovat. Kromě toho bych rád viděl zavádění chytrých technologií jak v dopravě, tak i v dalších oblastech života města. Prostě udělat z Teplic chytré město\" říká Jakub Špaček",
+    "order": "13"
   },
   {
     "id": "id14",
-    "name": "Martin Ryba",
-    "image": "/images/kandidati/14_ryba.jpg",
-    "occupation": "učitel, divadelník",
-    "motto": "Vypěstujme kulturní Teplice.",
-    "text": "Kultura k lázeňskému městu neodmyslitelně patří, ale neudělá se sama. K tomu musíte mít plán, prostředky, ale především lidi, kteří kultuře rozumí a dokáží ji oživit. Martin Ryba získal jako ředitel divadla potřebných zkušeností nepočítaně.",
-    "order": 14
+    "name": "Mgr. Eva Klášterková",
+    "image": "/images/kandidati/klasterkova.jpg",
+    "occupation": "dokumentátorka Národní galerie Praha",
+    "motto": "Od tradice k excelenci",
+    "text": "„Teplice jsou nejstarší lázně v České republice. V minulosti patřily k vyhlášeným evropským lázeňským centrům a přitahovaly návštěvníky svou historií, jedinečným okolím i bohatým kulturním životem. Dnes mají šanci na novou kapitolu. Vraťme Teplicím někdejší význam, buďme hrdí na jejich minulost a společně budujme silnou budoucnost,“ vyzývá dokumentátorka Eva Klášterková.",
+    "order": "14"
   },
   {
     "id": "id15",
-    "name": "Ing. arch. Jan Hanzlík",
-    "image": "/images/kandidati/15_hanzlik.jpg",
-    "occupation": "architekt",
-    "motto": "Město s jasnou vizí.",
-    "text": "'Chci město, kde necítíte strach, kde je radost bydlet, chodit ven, odpočívat i bavit se. Město, které vám může nabídnout důstojné bydlení, které aktivně řeší problémová místa. Pro osvědčená řešení se stačí podívat tam, kde to funguje, třeba do Vídně,' představuje svou vizi architekt Jan Hanzlík.",
-    "order": 15
+    "name": "Mgr. Oto Kovanda",
+    "image": "/images/kandidati/kovanda.jpg",
+    "occupation": "vedoucí teplické pobočky WHITE LIGHT I, protidrogový specialista",
+    "motto": "Sociální práce potřebuje odbornost",
+    "text": "Oto Kovanda má bohaté zkušenosti při řešení bezdomovectví i drogové problematiky, kterým se věnuje již 22 let, jak v terénu, tak v zařízení WHITE LIGHT I. \"Dlouhodobě pracuji s lidmi, kteří se ocitli na okraji společnosti. Vím, že drogovou problematiku, bezdomovectví ani bezpečnost ve městě nevyřeší jednoduchá hesla. Vyžadují odbornost, trpělivost a systematickou práci. Právě tyto zkušenosti chci přinést do komunální politiky.\" říká Kovanda.",
+    "order": "15"
   },
   {
     "id": "id16",
-    "name": "Ing. Hana Rezková",
-    "image": "/images/kandidati/16_rezkova.jpg",
-    "occupation": "inženýrka chemie, obchodní zástupkyně",
-    "motto": "Krásné a čisté město.",
-    "text": "Hana Rezková se celý profesní život pohybuje kolem chemie, pracovala mimo jiné ve Sklo Unionu a v Lybaru. Ve vztahu k městu ji zajímá sport, několik let působila na zimním stadionu v mládežnickém hokeji, a taky veřejné prostory pro děti, které s vnučkou často navštěvuje. 'Chci přispět k tomu, aby Teplice byly znovu krásné a čisté město.'",
-    "order": 16
+    "name": "MUDr. Jan Kubalík",
+    "image": "/images/kandidati/kubalik.jpg",
+    "occupation": "oční lékař",
+    "motto": "Přilákat mladé a vzdělané",
+    "text": "\"Chci, aby mladí lidé měli důvod v Teplicích zůstávat, vracet se, nebo i přicházet a zakládat rodiny. Budeme motivovat studenty i absoventy k návratu do Teplic promyšleným systémem stipendií\" říká lékař Jan Kubalík.",
+    "order": "16"
   },
   {
     "id": "id17",
-    "name": "Mgr. Oto Kovanda",
-    "image": "/images/kandidati/17_kovanda.jpg",
-    "occupation": "vedoucí teplické pobočky White Light",
-    "motto": "Bezdomovectví je řešitelné.",
-    "text": "Málokdo ví o teplických bezdomovcích tolik, jako Oto Kovanda. V rámci své profese je s nimi v kontaktu prakticky každodenně, jak v terénu, tak v zařízení White Light I. 'Současná kumulace bezdomovců v centru nebo u Perly je důsledkem dlouhodobého zavírání očí nad pomalu kypícím problémem,' vysvětluje. Je proto realistický i v pohledu na změny: 'Když si vedení města nechá poradit, dá se ten současný průšvih pomalu posouvat k lepšímu,' říká Kovanda.",
-    "order": 17
+    "name": "Mgr. Petra Alexandra Honová",
+    "image": "/images/kandidati/honova.jpg",
+    "occupation": "učitelka matematiky, socioložka",
+    "motto": "Město, které naslouchá",
+    "text": "Po letech ve výzkumu a dnes jako učitelka i máma dvou malých dětí vidím město především očima lidí, kteří v něm každý den žijí. Záleží mi na kvalitních školách, bezpečném a příjemném veřejném prostoru i na tom, aby děti měly kde vyrůstat a lidé se mohli podílet na rozhodování o svém okolí. Celou profesní dráhu mě zajímalo, jak vytvářet prostředí, ve kterém nikdo nezůstává stranou. Ať už jde o děti, seniory nebo lidi v obtížné životní situaci. Právě takové Teplice bych chtěla pomáhat budovat.",
+    "order": "17"
   },
   {
     "id": "id18",
-    "name": "Ing. Ivo Barabáš",
-    "image": "/images/kandidati/18_barabas.jpg",
-    "occupation": "vodohospodář",
-    "motto": "Spravujme město transparentně.",
-    "text": "Občané města mají právo vědět, co město dělá se svěřenými prostředky a to nejen kam je už investovalo, ale i kam je plánuje investovat. Zveřejňování smuv, transparentní postup při zadávání veřejných zakázek, ale také informování občanů nad rámec toho, co je povinné ze zákona, by v dnešní době mělo být samozřejmostí.",
-    "order": 18
+    "name": "Ing. Jakub Kyselovič",
+    "image": "/images/kandidati/kyselovic.jpg",
+    "occupation": "pracovník správy CHKO České středohoří ",
+    "motto": "Pečovat o krajinu i veřejný prostor",
+    "text": "\"Chci, aby veřejný prostor a krajina ve městě i za městem byli prostupné a obytné, aby nabízela útočište pro obyvatele města i pro přírodu. Zajímám se též o dostupnost a kvalitu veřejných služeb a infrastruktury.\" Jakub Kyselovič vystudoval územní a prostorové plánování se zaměřením na plánování krajiny. Profesně se věnuje ochraně přírody a péči o krajinu. \"V Teplicích chci přispět ke zlepšení péče o krajinu a veřejný prostor.\"",
+    "order": "18"
   },
   {
     "id": "id19",
-    "name": "Mgr. Alexandra Bernardová",
-    "image": "/images/kandidati/19_bernardova.jpg",
-    "occupation": "bioložka, vědecká pracovnice",
-    "motto": "Pro Teplice, na které budeme hrdí.",
-    "text": "'V Teplicích jsem vyrostla, je to můj domov na který jsem hrdá. Chci, abych na něj mohla být hrdá i v budoucnosti, k tomu je však nezbytné začít řešit oblasti, které pokulhávají. Společně to zvládneme,' říká naše kandidátka Alexandra Bernardová.",
-    "order": 19
+    "name": "Robert Appel",
+    "image": "/images/kandidati/appel.jpg",
+    "occupation": "podnikatel, předseda spolku Ulpan Teplice",
+    "motto": "Plovárna v Zámecké zahradě ožije!",
+    "text": "„Teď máme opravdu šanci vrátit Plovárnu v Zámecké zahradě městu a lidem. Tuhle příležitost nepromarníme\" říká teplický rodák Robert Appel, který vidí naději na návrat kusu naší historie",
+    "order": "19"
   },
   {
     "id": "id20",
-    "name": "Mgr. Adam Štika",
-    "image": "/images/kandidati/20_stika.jpg",
-    "occupation": "sociální pracovník",
-    "motto": "Pestrost nás spojuje.",
-    "text": "'Dobu, v níž Teplice byly Malou Paříží, charakterizovala pestrost. I dnes jsou Teplice živé a pestré město. Přeji si, abychom víc sdíleli kulturní bohatství s našimi sousedy,' říká Adam Štika, sociální pracovník a kandidát Volby pro Teplice.",
-    "order": 20
+    "name": "Mgr. Alexandra Strunecká Bernard",
+    "image": "/images/kandidati/bernard.jpg",
+    "occupation": "vědecká pracovnice, pedagog",
+    "motto": "Pro Teplice, na které budeme hrdí. ",
+    "text": "\"V Teplicích jsem vyrostla, je to můj domov na který jsem hrdá. Chci, abych na něj mohla být hrdá i v budoucnosti, k tomu je však nezbytné začít řešit oblasti, které pokulhávají. My to společně to zvládneme,\" říká naše kandidátka Alexandra Bernardová.",
+    "order": "20"
   },
   {
     "id": "id21",
-    "name": "Daniel Sajdl",
-    "image": "/images/kandidati/21_sajdl.jpg",
-    "occupation": "plánovač výroby",
-    "motto": "Teplice pro pěší a cyklisty!",
-    "text": "'Víte proč jiná města tolik podporují cyklisty? Protože víc kol znamená méně aut. A méně aut si moc přejí ti, kteří za volant prostě musí. Hlavně aby se jim na silnici nepletli žádní cyklisti. :-) Chtěl bych pomoci tomu, aby se u nás cítili cyklisti bezpečně. A aby se nemuseli plést pod kola,' říká Daniel Sajdl.",
-    "order": 21
+    "name": "Mgr. Leonardo Besa",
+    "image": "/images/kandidati/besa.jpg",
+    "occupation": "asistent senátora",
+    "motto": "Důstojné a hrdé město.",
+    "text": "\"Kandiduji proto, že věřím, že každý z nás může nést díl odpovědnosti za místo, kde žije. Historie mě naučila, že nejlepší rozhodnutí nevznikají z okamžitých emocí, ale z pochopení souvislostí. Právě tak bych chtěl přemýšlet i o Teplicích\" vysvětluje Leonardo Besa, vystudovaný učitel historie, fanoušek AC Milan a také kandidát Volby pro Teplice.",
+    "order": "21"
   },
-
   {
     "id": "id22",
     "name": "Mgr. Marie Doskočilová",
-    "image": "/images/kandidati/22_doskocilova.jpg",
-    "occupation": "hudebnice, členka Severočeské filharmonie Teplice",
-    "motto": "Účinná pomoc tam, kde je třeba.",
-    "text": "Marie Doskočilová žije v Teplicích přes dvacet let a doslova tu zakořenila: nejenže se na Nové Vsi s manželem a dvěma dětmi cítí doma, ale také se aktivně zapojuje do komunitního a kulturního života. Dobrovolně uklízí okolí svého domu, připravuje dětský program na Noci kostelů, je aktivní ve farnosti.",
-    "order": 22
+    "image": "/images/kandidati/doskocilova.jpg",
+    "occupation": "hudebnice, členka Severočeské filharmonie Teplice, pedagožka volného času",
+    "motto": "Adaptujme město na proměny klimatu!",
+    "text": "Rok co rok je v létě větší a delší horko a pro obyvatele měst je zde pobyt občas skoro nesnesitelný. Situace se v příštích letech nejspíš nebude zlepšovat. Máme tedy nejvyšší čas vytvořit systematický plán proměny veřejného prostoru tak, abychom se nemuseli každý rok dívat na spálené trávníky a neměli se na náměstích kam schovat před sluncem. Mnoho evropských měst jde dobrým příkladem a my chceme držet krok s těmi, kteří jsou na špici při hledání nových a účinných řešení. Budeme investovat do prevence přehřívání města a dalších opatření.",
+    "order": "22"
   },
   {
     "id": "id23",
-    "name": "Mgr. Josef Hon",
-    "image": "/images/kandidati/23_josef-hon.jpg",
-    "occupation": "ředitel Arkadie v penzi",
-    "motto": "Vlídné město i pro lidi s pohybovým hendikepem.",
-    "text": "Pepík Hon léta pracoval jako ředitel Arkadie a bezbariérovost města, včetně MHD, mu ležela na srdci. Dnes dostupnost veřejných míst poznává na vlastní kůži jako senior a slibuje, že se v zastupitelstvu města zasadí o konkrétní opatření.",
-    "order": 23
+    "name": "Mgr. Tomáš Čurda",
+    "image": "/images/kandidati/curda.jpg",
+    "occupation": "probační úředník",
+    "motto": "Čerstvý pohled pro moderní Teplice.",
+    "text": "\"Tohle město jsem si vybral před pěti lety jako domov. Jako náplava vidím jeho potenciál bez provozní slepoty. Po letech práce ve státní správě vím, jak funguje, a chci to využít pro digitalizaci úřadu, méně byrokracie a moderní řešení. Jsem pro čisté a funkční město, inspiraci rád čerpám na cestách po Evropě. Když zrovna neběhám v Zámecké zahradě se svou border kolií nebo nejsem v teplickém divadle, chci makat na tom, aby byly Teplice skvělým místem pro život\" popisuje kandidát Tomáš Čurda",
+    "order": "23"
   },
   {
     "id": "id24",
-    "name": "Bc. Emílie Rážová",
-    "image": "/images/kandidati/24_mrackova.jpg",
-    "occupation": "stážistka Kanceláře architekta města",
-    "motto": "Péče o veřejný prostor",
-    "text": "Emilie se zabývá veřejným prostorem jak profesně, tak zájmově v klubu Zahálka. 'O naše byty, domy a zahrady si pečujeme. Podobně nároční bychom měli být i na prostor, který je přístupný všem. Chci, aby ulice, náměstí, parky byly podobně pěkným prostorem, kam rádi přivedeme a posadíme návštěvu,' vysvětluje Emilie.",
-    "order": 24
+    "name": "PhDr. Magda Kubíčková Barabášová",
+    "image": "/images/kandidati/kubickova.jpg",
+    "occupation": "učitelka a výtvarnice",
+    "motto": "Místo, kde chceme zakořenit i růst.",
+    "text": "\"Po studiu jsem se vrátila do svých rodných Teplic a založili jsme tu s manželem rodinu. Po zkušenosti z jiných měst, ale vidím, že nestačí se jen vracet ke starému. Je třeba aktivně pracovat na budování místa pro život, ve kterém budou chtít žít i naše děti. Podílela jsem se na publikacích jako jsou Teplická NEJ, nebo Učebnice dějin Teplicka, protože věřím, že má smysl zajímat se o kořeny, aby bylo možné s odvahou i poučeností realizovat vize. Volba PRO Teplice vize má, a proto chci spolupracovat na jejich uvádění v život,\" říká středoškolská učitelka Magda Kubíčková Barabášová.",
+    "order": "24"
   },
   {
     "id": "id25",
-    "name": "Bc. Richard Sedláček",
-    "image": "/images/kandidati/25_sedlacek.jpg",
-    "occupation": "student veřejné správy",
-    "motto": "Aby Teplice měly lepší zvuk. ",
-    "text": "'Teplice jsou krásné lázeňské město, ale neuškodilo by mu, kdybychom ho lépe propagovali a vylepšili jeho jméno i za hranicemi města. A právě tomu bych chtěl pomoci,' říká student veřejné správy a také zpěvák Collegia hortense Richard Sedláček.",
-    "order": 25
+    "name": "Tomáš Bulla Cieplik",
+    "image": "/images/kandidati/bulla.jpg",
+    "occupation": "školník, sportovní poradce",
+    "motto": "Sportování pro všechny",
+    "text": "\"Sport nejsou jen velké kluby, ale i neorganizovaní jednotlivci nebo znevýhodněné děti. Chci město, které bude podporovat sportování dostupné dětem bez rozdílu jejich rodinného zázemí. Nizkoprahové sportování a aktivity dětí jsou nejlepší prevencí problémového chování a cestou k lepšímu životu\" říka Tomáš Bulla Cieplik, který je sám aktivním sportovcem a otužilcem",
+    "order": "25"
   },
   {
     "id": "id26",
-    "name": "Milan Pekárek",
-    "image": "/images/kandidati/26_pekarek.jpg",
-    "occupation": "technik",
-    "motto": "Lidi, kterým můžete věřit.",
-    "text": "Milan Pekárek má s teplickou komunální politikou letité zkušenosti. 'Přesvědčil jsem se, že všechno je o lidech. Mnohé z kandidátů Volby pro Teplice znám z lidovců, jiné z jejich občanského působení. Vím, že jim můžu věřit!'",
-    "order": 26
+    "name": "Jana Hennebichlerová",
+    "image": "/images/kandidati/hennebichlerova.jpg",
+    "occupation": "zdravotní sestra v penzi",
+    "motto": "Město, které myslí i na seniory",
+    "text": "\"Toužím po městě, které bude přístupné a ohleduplné ke svým starším nebo znevýhodněným občanům. Vím, že Volba pro Teplice na to myslí a proto podporuji jejich kandidátku\" říká někdejší zdravotní sestra Jana Hennebichlerová",
+    "order": "26"
   },
   {
     "id": "id27",
-    "name": "Leonardo Besa",
-    "image": "/images/kandidati/27_besa.jpg",
-    "occupation": "student historie",
-    "motto": "Pro kulturní Teplice.",
-    "text": "'Jsem hrdý na to, že pocházím z Teplic. Vidím ale oblasti, ve kterých bychom mohli rozvíjet potenciál našeho města,' vysvětluje Leonardo Besa, student historie, fanoušek fotbalového Milána a také kandidát Volby pro Teplice.",
-    "order": 27
+    "name": "Ing. Richard Sedláček",
+    "image": "/images/kandidati/sedlacek.jpg",
+    "occupation": "lektor cizích jazyků",
+    "motto": "Táhněme za společný provaz – za Teplice!",
+    "text": "„Cestování i studium především v severských zemích mě naučily jedno: spokojené město nevytvářejí politici, ale aktivní lidé. Když nám na našem okolí záleží a držíme při sobě, jde všechno lépe. Neptejme se proto jen, co pro nás udělá město, ale co pro své město můžeme udělat my sami.“ říká absolvent regionalistiky a lektor Richard Sedláček",
+    "order": "27"
   }
 ]

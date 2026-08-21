@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "amount": 250000,
+    "title": "Plakátovací kampaň",
+    "payer": "KDU-ČSL",
+    "publisher": "Rengl s.r.o.",
+    "from": "1.9.2026",
+    "until": "31.10.2026"
+  },
+  {
+    "id": "2",
+    "title": "Billboardová kampaň",
+    "amount": 75000,
+    "payer": "KDU-ČSL",
+    "publisher": "EuroAWK a.s.",
+    "from": "1.9.2026",
+    "until": "31.10.2026"
+  },
+  {
+    "id": "3",
+    "title": "Kampaň CityLight vitríny",
+    "amount": 75000,
+    "payer": "Strana Zelených",
+    "publisher": "EuroAWK a.s.",
+    "from": "1.9.2026",
+    "until": "31.10.2026"
+  }
+]
