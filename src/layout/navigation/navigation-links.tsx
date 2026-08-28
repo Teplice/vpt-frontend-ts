@@ -31,6 +31,9 @@ const NavigationLinks: React.FC = () => {
       <li className={getClass("/newsletter")}>
         <Link href="/newsletter">Zpravodaj</Link>
       </li>
+        <li className={getClass("/newsletter")}>
+        <Link href="/ramecek">Rámeček</Link>
+      </li>
       {/*  <li className={getClass("/transparentnost")}>*/}
       {/*  <Link href="/transparentnost">Transparentnost</Link>*/}
       {/*</li>*/}
