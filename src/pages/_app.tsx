@@ -7,7 +7,7 @@ import type { AppProps } from "next/app";
 import { AuthProvider } from "../context/auth-context";
 import Layout from "../layout/layout";
 import Head from "next/head";
-
+import { Analytics } from "@vercel/analytics/react";
 import * as ga from "../utilities/google-analytics";
 
 function MyApp({ Component, pageProps }: AppProps) {
@@ -35,6 +35,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Head>
         <Component {...pageProps} />
+        <Analytics />
       </Layout>
     </AuthProvider>
   );
