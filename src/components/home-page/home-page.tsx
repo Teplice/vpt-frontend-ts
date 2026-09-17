@@ -13,8 +13,9 @@ const HomePage: React.FC = () => {
         <div className="home-page__container">
             <HeroSection/>
             <Coalition/>
+            <Program />
             {/*<SupportParties />*/}
-            <Accomplishement/>
+            {/*<Accomplishement/>*/}
 
             {/*<Program/>*/}
             <PastElection/>
