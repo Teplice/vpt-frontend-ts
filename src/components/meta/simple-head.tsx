@@ -5,7 +5,7 @@ interface SimpleHeadProps {
   description: string;
   url: string;
   keywords: string;
-  google_site_verification: string;
+  google_site_verification?: string;
 }
 
 const SimpleHead: React.FC<SimpleHeadProps> = (props) => {
