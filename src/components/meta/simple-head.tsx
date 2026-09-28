@@ -5,6 +5,7 @@ interface SimpleHeadProps {
   description: string;
   url: string;
   keywords: string;
+  google_site_verification: string;
 }
 
 const SimpleHead: React.FC<SimpleHeadProps> = (props) => {
@@ -13,6 +14,7 @@ const SimpleHead: React.FC<SimpleHeadProps> = (props) => {
       <title>{props.title}</title>
       <meta name="description" content={props.description} />
       <meta name="keywords" content={props.keywords} />
+      <meta name="google-site-verification" content={props.google_site_verification} />
       <meta property="og:url" content={`${process.env.HOST_URL}/${props.url}`} />
       <meta property="og:title" content={props.title} />
       <meta property="og:description" content={props.description} />
